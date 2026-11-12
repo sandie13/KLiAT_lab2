@@ -1,0 +1,16 @@
+# Виртуальное окружение Python
+.venv/
+
+# Настройки PyCharm
+.idea/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Файлы окружения и секреты
+.env
+
+# Системные файлы Windows
+.DS_Store
+Thumbs.db
